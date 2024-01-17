@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ante Vulić</h1>
 <h3 align="center">A full stack developer from Croatia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avulic" alt="avulic" /></a> </p>
-
-- 🔭 I’m currently working on [Gamified Learning System](https://github.com/avulic/diplomski)
-
 <p align="left">
   <a href="https://linkedin.com/in/ante-vulić" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
@@ -15,7 +11,7 @@
   <a href="https://linkedin.com/in/ante-vulić" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
   </a>
-  <h6 align="left">🌱 I’m currently learning **Vue, Typescript, ASP .NET CORE** - Gamified Learning System</h6>
+  <h6 align="left">🌱 I’m currently learning **Vue, Typescript, ASP .NET CORE** - [Gamified Learning System](https://github.com/avulic/diplomski)</h6>
 
 <p align="left">
   <a href="https://linkedin.com/in/ante-vulić" target="blank">
