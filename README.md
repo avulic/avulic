@@ -10,34 +10,27 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
   </a>
   <h6 align="left">Gamified Learning System</h6>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/ante-vulić" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
-  </a>
-  <h6 align="left">Gamified Learning System</h6>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/ante-vulić" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
-  </a>
-  <h6 align="left">Gamified Learning System</h6>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/ante-vulić" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
-  </a>
-  <h6 align="left">Gamified Learning System</h6>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/ante-vulić" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
-  </a>
-  <h6 align="left">Gamified Learning System</h6>
-</p>
-- 🌱 I’m currently learning **Vue, Typescript, ASP .NET CORE**
 
-- 👯 I've made [Uzorci dizajna](https://github.com/avulic/UzorciDizajna)
+
+  <a href="https://linkedin.com/in/ante-vulić" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
+  </a>
+  <h6 align="left">🌱 I’m currently learning **Vue, Typescript, ASP .NET CORE** - Gamified Learning System</h6>
+
+<p align="left">
+  <a href="https://linkedin.com/in/ante-vulić" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
+  </a>
+  <h6 align="left">Gamified Learning System</h6>
+  <a href="https://linkedin.com/in/ante-vulić" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
+  </a>
+  <h6 align="left">Gamified Learning System</h6>
+  <a href="https://linkedin.com/in/ante-vulić" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ante-vulić" height="30" width="40" />
+  </a>
+  <h6 align="left">[Uzorci dizajna](https://github.com/avulic/UzorciDizajna)</h6>
+</p>
 
 - 📫 How to reach me **antevulic96@gmail.com**
 
